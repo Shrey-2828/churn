@@ -4,3 +4,6 @@ scikit-learn
 matplotlib
 seaborn-0.13.2
 joblib
+streamlit
+xgboost
+imbalanced-learned
