@@ -1,9 +1,8 @@
-pandas-2.3.3
-numpy-2.4.2
+pandas
+numpy
 scikit-learn
 matplotlib
-seaborn-0.13.2
+seaborn
 joblib
 streamlit
-xgboost
-imbalanced-learned
+imbalanced-learn
