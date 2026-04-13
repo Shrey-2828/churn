@@ -1,2 +1,2 @@
 import numpy as np
-import steamlit as st
+import streamlit as st
