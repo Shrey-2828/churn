@@ -1,2 +1,2 @@
 # customer_churn
-#random forest algo
+#XGBOOST algo
