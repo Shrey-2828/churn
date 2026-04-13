@@ -1,2 +1,2 @@
 # customer_churn
-#XGBOOST algo
+#XGBOOST alg
