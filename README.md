@@ -1,2 +1,6 @@
 # customer_churn
-#XGBOOST algo
+#Randomforest =
+acc: 0.865
+pre: 0.8333333333333334
+rec: 0.47235023041474655
+f1: 0.6029411764705882
