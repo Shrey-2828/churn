@@ -26,7 +26,7 @@ xgboost : n=550 , max_d=5 , lr=0.08
 0.543778801843318
 0.6318607764390897
 
-randomforest: n_estimators=800,max_depth=11,random_state=34 
+randomforest: n_estimators=800,max_depth=11,random_state=34
 0.8615
 0.7460815047021944
 0.5483870967741935
