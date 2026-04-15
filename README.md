@@ -20,13 +20,13 @@ f1: 0.6029411764705882
 
 upsampaling :
 
-xgboost : 
+xgboost : n=550 , max_d=5 , lr=0.08
 0.8625
 0.7539936102236422
 0.543778801843318
 0.6318607764390897
 
-randomforest:
+randomforest: n_estimators=800,max_depth=11,random_state=34
 0.8615
 0.7460815047021944
 0.5483870967741935
