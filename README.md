@@ -51,3 +51,8 @@ randomforest: n_estimators=650,max_depth=5,random_state=45
 0.5806451612903226
 0.6014319809069213
 
+decisiontree: criterion="entropy",max_depth=4,random_state=45
+0.807
+0.5566037735849056
+0.543778801843318
+0.5501165501165501
