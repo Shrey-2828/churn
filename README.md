@@ -1,21 +1,8 @@
-# 📉 Customer Churn Prediction using XGBoost (Experimental Mini Project)
+# 📉 Customer Churn Prediction
 
 ## 🚀 Project Overview
 
 This project is a **Customer Churn Prediction System** built using the **XGBoost algorithm**.
-
-⚠️ **Important Note:**
-This is an **experimental mini-project** created to evaluate how well a **gradient boosting model (XGBoost)** performs on structured/tabular data.
-
----
-
-## 🎯 Objective
-
-The main goal of this project is to:
-
-* Predict whether a customer will churn or not
-* Evaluate performance of **XGBoost on tabular dataset**
-* Compare with other models like Logistic Regression & ANN
 
 ---
 
