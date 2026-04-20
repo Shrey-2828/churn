@@ -61,9 +61,7 @@ This project is a **Customer Churn Prediction System** built using the **XGBoost
 ## 🌐 Live Demo
 
 🚀 Try the deployed app here:
-👉 **https://your-xgboost-churn-app-link.streamlit.app**
-
-*(Replace with your actual deployed link)*
+👉 **https://customerchurn-shrey18.streamlit.app/**
 
 ---
 
