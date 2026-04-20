@@ -138,9 +138,8 @@ customer-churn-xgboost/
 │
 ├── Churn_Modelling.csv
 ├── model.pkl
-├── encoder.pkl
-├── scaler.pkl
-├── train.py / notebook.ipynb
+├── churn.ipynb
+├── .gitignore
 ├── requirements.txt
 └── README.md
 ```
@@ -158,8 +157,6 @@ customer-churn-xgboost/
 
 ## 📈 Future Improvements
 
-* ✅ Build full **Streamlit UI**
-* Deploy application online
 * Hyperparameter tuning for better performance
 * Compare with ANN & other models
 
@@ -170,24 +167,5 @@ customer-churn-xgboost/
 > XGBoost is a **high-performance ensemble algorithm**
 > that often delivers **better accuracy on tabular data** compared to traditional models.
 
----
-
-## 🤝 Contributing
-
-This is an experimental project, but improvements are welcome!
-
----
-
-## 📜 License
-
-MIT License
-
----
-
-## 👨‍💻 Author
-
-Developed by **Shrey Patel**
-
----
 
 ⭐ If you found this project useful, consider giving it a star!
