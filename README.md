@@ -42,7 +42,10 @@ This project is a **Customer Churn Prediction System** built using the **XGBoost
 
 ## 📈 Model Performance
 
-* **Accuracy:** *(Add your achieved score here, e.g., 86%+)*
+* **Accuracy:0.8575** 
+* **Precision:0.7264**
+* **Recall:0.5506912442396313**
+* **F1-score:0.6264744429882044**
 
 ---
 
