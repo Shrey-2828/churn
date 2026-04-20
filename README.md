@@ -126,7 +126,7 @@ pip install -r requirements.txt
 ### 3. Run the Model
 
 ```bash id="g7h8i9"
-python train.py
+python app.py
 ```
 
 ---
